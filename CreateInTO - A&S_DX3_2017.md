@@ -60,7 +60,7 @@
 ---
 # Lots and Lots of Ideas...
 
-!(assets/robot_arm.JPG?raw=true "Robot Arm")
+![](assets/robot_arm.JPG?raw=true "Robot Arm")
 
 ---
 # Concept Finalization
