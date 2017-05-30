@@ -46,7 +46,7 @@
 ---
 # Team Ideation
 
-<video src="videofile.webm" autoplay></video>
+<video src="assets/adam_spence.MOV" autoplay></video>
 
 1. Identify outcomes and objectives - "can I buy THAT"?
 2. Target budget and timeline
@@ -61,6 +61,12 @@
 # Lots and Lots of Ideas...
 
 ![](assets/robot_arm.JPG?raw=true "Robot Arm")
+![](assets/fish_tank.JPG?raw=true "Fish Tank")
+![](assets/dino_hatch.JPG?raw=true "Dino Hatch")
+![](assets/magic_mirror.JPG?raw=true "Magic Mirror")
+![](assets/tamagotchi.JPG?raw=true "Tamagotchi")
+![](assets/ar_app.JPG?raw=true "AR App")
+![](assets/beacons.JPG?raw=true "Beacons")
 
 ---
 # Concept Finalization
