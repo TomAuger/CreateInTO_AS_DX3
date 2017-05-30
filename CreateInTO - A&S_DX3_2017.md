@@ -1,13 +1,15 @@
 
 #Full Stack TO Meetup
 ## At Art & Science Experience Design
-   
+
 ---
-     
+
 # The Road to DX3 2017
 
 ---
 # Who's Art & Science?
+
+![](assets/as_team.jpg?raw=true "Art & Science Team TIFF DigiPlayspace")
 
 * Started as an agency's agency
 * Solved technical and creative problems big agencies couldn't
@@ -18,7 +20,10 @@
 ---
 # Why DX3?
 
-> DX3 is positioned at the confluence of retail, marketing and technology. 
+> DX3 is positioned at the confluence of retail, marketing and technology.
+
+![](assets/dx3_logo.png?raw=true "DX3 Logo")
+
 
 * Moderate lead gen
 * Some exposure to new tech
@@ -27,6 +32,24 @@
 * "Dry run" for complicated activations.
 
 > "It's Showtime!"
+
+---
+# A&S Objectives for Dx3 2017
+
+* Provide an authentic Art & Science brand experience.
+* Demonstrate our thinking, capabilities and culture.
+* Have interactive experiences.
+* Include a “takeaway” for booth visitors.
+
+> **Feel:** “This was the coolest booth at the show.”
+
+> **Say:** “I’m interested in chatting with A&S further about a project or problem I need solved.
+
+> **Do:** Engage with us on social media and post content that includes our booth
+
+
+
+
 
 ---
 # Planning the Journey
@@ -46,7 +69,7 @@
 ---
 # Team Ideation
 
-<video src="assets/adam_spence.MOV" autoplay></video>
+<video src="assets/adam_spence_edit.mp4"></video>
 
 1. Identify outcomes and objectives - "can I buy THAT"?
 2. Target budget and timeline
