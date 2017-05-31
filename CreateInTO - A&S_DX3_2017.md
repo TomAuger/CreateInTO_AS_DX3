@@ -197,6 +197,8 @@ Revised vision:
 
 ![](assets/monster_tom_1.png?raw=true "Tom the Chicken Head")
 ![](assets/monster_dave_1.png?raw=true "Dave the Antennapus")
+![](assets/monster_ali.png?raw=true "Alyssa the Earhog")
+![](assets/monster_tom_eye.png?raw=true "The Giant Eye")
 
 
 ---
@@ -288,6 +290,7 @@ Revised vision:
 * Also: assembly!
 
 ![](assets/box_raising.JPG?raw=true "Box Raising")
+![](assets/mbox_construction.jpg?raw=true "Building the Box")
 
 ---
 
@@ -299,8 +302,10 @@ Revised vision:
 
 # How did it go?
 
-1,262 Games of Subatomic Smash played (half by booth staffers)
-345 "Transmogrifications"
+![](/assets/dx3_stats.png?raw=true "DX3 Stats")
+
+1,262 Games of Subatomic Smash played (half by booth staffers)   
+345 "Transmogrifications"  
 284 Monsters created
 
 > Tons of great conversations, a pile of Instagram activity and 1 amazing video reel.
