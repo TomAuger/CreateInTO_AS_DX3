@@ -5,6 +5,16 @@
 ![](assets/dx3.JPG?raw=true "Dx3 Installation Shot")
 
 ---
+# Who Am I?
+
+Tom Auger,  
+CTO Art & Science  
+@TomAuger
+
+![](assets/maker_tom.jpg?raw=true "Maker Tom")
+
+
+---
 # Who's Art & Science?
 
 ![](assets/as_team.jpg?raw=true "Art & Science Team TIFF DigiPlayspace")
