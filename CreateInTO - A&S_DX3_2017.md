@@ -258,11 +258,11 @@ Revised vision:
 * Adafruit Fadecandy == 60 pixels per port :(
 * Go Nano (clone)!
 
-![](assets/pt_nano.jpg?raw=true "Nano Clone")
+![](assets/pt_nano.JPG?raw=true "Nano Clone")
 
 * Lighting is easy; diffusion is hard!
 
-![](assets/pt_diffusion.jpg?raw=true "LED Diffusion Mounts")
+![](assets/pt_diffusion.JPG?raw=true "LED Diffusion Mounts")
 
 * Socket.io is cool
 
